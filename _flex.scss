@@ -1,0 +1,25 @@
+.row{
+	display: flex;
+	flex-wrap: wrap;
+}
+.col{
+	flex:1;
+}
+.aic{
+	align-items: center;
+}
+.aie{
+	align-items: flex-end;
+}
+.ais{
+	align-items: flex-start;
+}
+.jcc{
+	justify-content: center;
+}
+.jce{
+	justify-content: flex-end;
+}
+.jcs{
+	justify-content: flex-start;
+}
